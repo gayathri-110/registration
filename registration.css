@@ -1,0 +1,36 @@
+#g1{
+    margin:100px;
+    padding:20px;
+}
+#g2{
+    border:1px solid black;
+    height:50px;
+    width:400px;
+    margin-left: 400px;
+}
+#g3{
+    margin-top: 40px;
+}
+#g4{
+    margin-top: 40px;
+}
+#g5{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#g6{
+    margin-top: 20px;
+}
+#g7{
+    margin-top: 20px;
+}
+#g8{
+    margin-top: 20px;
+}
+#g9{
+    float:bottom
+    margin-top: 20px
+    width:50px;
+
+}
